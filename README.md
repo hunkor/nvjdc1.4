@@ -1,4 +1,4 @@
-安装教程：http://www.unke.ren/903.html
+安装教程：
 
 ## 必看
 
